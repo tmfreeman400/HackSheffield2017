@@ -2,3 +2,4 @@
 Maria, Sokratis, Stefanie, Tim
 
 -Hi everyone!
+- Hello friends!
