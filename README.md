@@ -2,13 +2,14 @@
 Maria, Sokratis, Stefanie, Tim
 
 -Hi everyone!
-- Hello friends!
 
-Testing usage of alternate branches in this code.
 
 Feel free to add any useful information you find to this text file.
 
 this is the PIPELINE
+=======
+
+//this is HOME
 
 <!doctype html>
 <html>
@@ -452,3 +453,14 @@ this is the PIPELINE
 </body>
 
 </html> 
+=======
+    <li><a href="forhs3.html">Start planning</a></li>
+  </ul>
+    </nav>
+	
+	<body>
+	hi
+    </body>
+
+</html> 
+
