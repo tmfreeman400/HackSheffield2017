@@ -4,6 +4,7 @@ Maria, Sokratis, Stefanie, Tim
 -Hi everyone!
 
 
+
 //this is HOME
 
 <!doctype html>
@@ -28,5 +29,4 @@ Maria, Sokratis, Stefanie, Tim
     </body>
 
 </html> 
-
 
